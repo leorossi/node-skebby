@@ -1,0 +1,15 @@
+{
+  "name": "node-skebby",
+  "version": "1.0.0",
+  "description": "NodeJS wrapper for Skebby SMS Gateway API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Rossi <leonardo.rossi@gmail.com> (http://leorossi.it/)",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^1.2.0",
+    "xml2js": "^0.4.8"
+  }
+}
