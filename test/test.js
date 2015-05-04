@@ -1,4 +1,4 @@
-var Skebby = require('../lib/Skebby.js');
+var Skebby = require('../lib/skebby.js');
 
 var s = new Skebby();
 s.addRecipient('393396803445');

@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Leonardo Rossi <leonardo.rossi@gmail.com> (http://leorossi.it/)",
+  "main": "./lib/skebby.js",
   "license": "MIT",
   "dependencies": {
     "superagent": "^1.2.0",
