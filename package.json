@@ -1,6 +1,6 @@
 {
   "name": "node-skebby",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "NodeJS wrapper for Skebby SMS Gateway API",
   "main": "index.js",
   "scripts": {
