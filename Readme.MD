@@ -1,4 +1,4 @@
-### Skebby Wrapper for NodeJS
+### NodeJS Wrapper for Skebby
 
 ## Installation
 
